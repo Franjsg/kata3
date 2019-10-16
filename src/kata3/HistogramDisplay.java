@@ -48,9 +48,9 @@ public class HistogramDisplay extends ApplicationFrame {
             dataSet.addValue(histogram.get(key), "", key);
         }
         
-        dataSet.addValue(300, "", "ulpgc.es");
-        dataSet.addValue(400, "", "dis.ulpgc.es");
-        dataSet.addValue(200, "", "gmail.com");
+        //dataSet.addValue(300, "", "ulpgc.es");
+        //dataSet.addValue(400, "", "dis.ulpgc.es");
+        //dataSet.addValue(200, "", "gmail.com");
         return dataSet;
     }
 }
